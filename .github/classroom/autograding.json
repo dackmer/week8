@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Case 4",
+      "setup": "",
+      "run": "python sumi.py",
+      "input": "1000",
+      "output": "500500",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Case 2",
+      "setup": "",
+      "run": "python sumi.py",
+      "input": "3",
+      "output": "6",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Case 3",
+      "setup": "",
+      "run": "python sumi.py",
+      "input": "5",
+      "output": "15",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Case 4",
+      "setup": "",
+      "run": "python sumi.py",
+      "input": "1000",
+      "output": "500500",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Case 5",
+      "setup": "",
+      "run": "python sumi.py",
+      "input": "1234",
+      "output": "761995",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
